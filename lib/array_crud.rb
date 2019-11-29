@@ -39,7 +39,7 @@ remove_element_from_end_of_array([num_array = "one", "two", "three", "four"])
 
 #------------------------------------------------------------------
 
-
+#Pass
 def remove_element_from_start_of_array(array)
   return array.shift
 end
